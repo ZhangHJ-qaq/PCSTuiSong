@@ -55,4 +55,18 @@
 
 ## 正版软件的下载
 
+学校为我们提供了一些正版软件的资源。比较常用的有Microsoft Windows，Mircosoft Office及Adobe全家桶。此外还有提供VMWare，SPSS，SAS，Matlab等正版专业软件。
+
+下载学校提供的正版软件**需要连接到校园网**。如果你想在寝室或者家里下载安装正版软件，请参考上面的教程使用VPN连接到校园网。
+
+可以用学号和密码登录[MVLS-Fudan](http://mvls.fudan.edu.cn/)下载到Windows和Office。
+
+[]()![mvls_fudan](./pictures/mvls_fudan.png)
+
+可以用学号和密码登录[正版软件平台](https://zb.fudan.edu.cn/)下载到Adobe全家桶。
+
+![adobe](./pictures/adobe.png)
+
+关于下载完Windows，Office和Adobe等软件后如何进行下载和激活，由于篇幅较长，再次暂且不表。后续PCS会另外**专门推出一期教程指导如何安装和激活**，敬请期待。如果自行下载安装遇到困难也可以来值班室找我们（
+
 ## 课程大纲的查找与下载
