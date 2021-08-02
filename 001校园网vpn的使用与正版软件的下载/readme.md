@@ -26,7 +26,7 @@
 
 首先你需要有一个UIS账号和密码。UIS账号为你的学号，密码可以根据新生手册中的教程自行设置。
 
-在浏览器中打开[复旦大学WebVPN](https://webvpn.fudan.edu.cn)，看到如下界面。在右侧输入你的学号和UIS密码。
+在浏览器中打开[复旦大学WebVPN](https://webvpn.fudan.edu.cn)，看到如下界面。在右侧输入你的学号和UIS密码登录~~（我也不知道为什么，这个登录键似乎有时候要点好几下才有反应......)~~
 
 ![webvpn_login](./pictures/webvpn_login.png)
 
@@ -55,6 +55,8 @@
 ## 正版软件的下载
 
 学校为我们提供了一些正版软件的资源。比较常用的有Microsoft Windows，Mircosoft Office及Adobe全家桶。此外还有提供VMWare，SPSS，SAS，Matlab等正版专业软件。
+
+![genuine_software](./pictures/genuine_software.png)
 
 下载学校提供的正版软件**需要连接到校园网**。如果你想在寝室或者家里下载安装正版软件，请参考上面的教程使用VPN连接到校园网。
 
