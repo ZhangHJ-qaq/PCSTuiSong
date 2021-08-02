@@ -2,16 +2,15 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [复旦大学部分常用资源下载和使用指南](#%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E9%83%A8%E5%88%86%E5%B8%B8%E7%94%A8%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
+- [校园网VPN的使用与正版软件的下载](#%E6%A0%A1%E5%9B%AD%E7%BD%91vpn%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E6%AD%A3%E7%89%88%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%8B%E8%BD%BD)
   - [校园网VPN的下载与使用-访问校内资源必备](#%E6%A0%A1%E5%9B%AD%E7%BD%91vpn%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E4%BD%BF%E7%94%A8-%E8%AE%BF%E9%97%AE%E6%A0%A1%E5%86%85%E8%B5%84%E6%BA%90%E5%BF%85%E5%A4%87)
     - [使用WebVPN连接到校园网](#%E4%BD%BF%E7%94%A8webvpn%E8%BF%9E%E6%8E%A5%E5%88%B0%E6%A0%A1%E5%9B%AD%E7%BD%91)
     - [使用EasyConnect客户端连接到校园网](#%E4%BD%BF%E7%94%A8easyconnect%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5%E5%88%B0%E6%A0%A1%E5%9B%AD%E7%BD%91)
   - [正版软件的下载](#%E6%AD%A3%E7%89%88%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%8B%E8%BD%BD)
-  - [课程大纲的查找与下载](#%E8%AF%BE%E7%A8%8B%E5%A4%A7%E7%BA%B2%E7%9A%84%E6%9F%A5%E6%89%BE%E4%B8%8E%E4%B8%8B%E8%BD%BD)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# 复旦大学部分常用资源下载和使用指南
+# 校园网VPN的使用与正版软件的下载
 
 ## 校园网VPN的下载与使用-访问校内资源必备
 
@@ -68,5 +67,3 @@
 ![adobe](./pictures/adobe.png)
 
 关于下载完Windows，Office和Adobe等软件后如何进行下载和激活，由于篇幅较长，再次暂且不表。后续PCS会另外**专门推出一期教程指导如何安装和激活**，敬请期待。如果自行下载安装遇到困难也可以来值班室找我们（
-
-## 课程大纲的查找与下载
