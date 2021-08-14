@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [寝室上网指南](#%E5%AF%9D%E5%AE%A4%E4%B8%8A%E7%BD%91%E6%8C%87%E5%8D%97)
+  - [购买宽带](#%E8%B4%AD%E4%B9%B0%E5%AE%BD%E5%B8%A6)
+  - [购买宽带后](#%E8%B4%AD%E4%B9%B0%E5%AE%BD%E5%B8%A6%E5%90%8E)
+  - [选购路由器](#%E9%80%89%E8%B4%AD%E8%B7%AF%E7%94%B1%E5%99%A8)
+  - [路由器的安装与配置](#%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE)
+    - [网线](#%E7%BD%91%E7%BA%BF)
+    - [连接路由器](#%E8%BF%9E%E6%8E%A5%E8%B7%AF%E7%94%B1%E5%99%A8)
+    - [配置路由器](#%E9%85%8D%E7%BD%AE%E8%B7%AF%E7%94%B1%E5%99%A8)
+    - [如果你遇到问题](#%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98)
+  - [尾注](#%E5%B0%BE%E6%B3%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 寝室上网指南
 
 **首先你要购买宽带！**
