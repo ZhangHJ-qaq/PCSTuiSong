@@ -43,11 +43,11 @@
 
 ### 自定义要安装的组件
 
-我们都知Microsoft Office是具有非常多的组建的，比如大家最熟悉的【三剑客】（Word、PowerPoint、Excel），还有一些比较小众的组件，比如Outlook、Access等。学校提供给我们的安装程序**默认会安装Word、PowerPoint和Excel**。如果你不需要安装其他的组件，可以跳过这部分。否则，请使用记事本打开Custom.xml文件。
+我们都知Microsoft Office是具有非常多的组件的，比如大家最熟悉的【三剑客】（Word、PowerPoint、Excel），还有一些比较小众的组件，比如Outlook、Access等。学校提供给我们的安装程序**默认会安装Word、PowerPoint和Excel**。如果你不需要安装其他的组件，可以跳过这部分。否则，请使用记事本打开Custom.xml文件。
 
 ![open_custom](./pictures/open_custom.png)
 
-【关键！！！】把你**想要**的组件所在的行**删除**掉（因为是**ExcludeApp**嘛，双重否定句，呵呵），并保存。比如我还想要安装**Outlook**和**Onenote**，就对Custom.xml文件进行如下修改并保存。
+【关键！！！】把你**想要**的组件所在的行**删除**掉（因为是**ExcludeApp**嘛，双重否定句，这一行存在就会阻止这一行的App安装，呵呵），并保存。比如我还想要安装**Outlook**和**OneNote**，就对Custom.xml文件进行如下修改并保存。
 
 ![editting_custom](./pictures/editting_custom.png)
 
