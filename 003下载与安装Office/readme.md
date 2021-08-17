@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [下载与安装Microsoft Office](#%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85microsoft-office)
+  - [前情提要](#%E5%89%8D%E6%83%85%E6%8F%90%E8%A6%81)
+  - [下载](#%E4%B8%8B%E8%BD%BD)
+  - [安装](#%E5%AE%89%E8%A3%85)
+    - [解压安装包](#%E8%A7%A3%E5%8E%8B%E5%AE%89%E8%A3%85%E5%8C%85)
+    - [自定义要安装的组件](#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A6%81%E5%AE%89%E8%A3%85%E7%9A%84%E7%BB%84%E4%BB%B6)
+    - [开始安装](#%E5%BC%80%E5%A7%8B%E5%AE%89%E8%A3%85)
+  - [激活](#%E6%BF%80%E6%B4%BB)
+      - [关于激活的注意事项](#%E5%85%B3%E4%BA%8E%E6%BF%80%E6%B4%BB%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+  - [尾注](#%E5%B0%BE%E6%B3%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 下载与安装Microsoft Office
 
 ## 前情提要
