@@ -54,13 +54,13 @@
 
 之后，仍然运行setup批处理文件，**这一次输入A进行激活**。
 
-![setup_option](D:\PCS推送\pcstui-song\003下载与安装MicrosoftOffice\pictures\setup_option.png)
+![setup_option](./pictures/setup_option.png)
 
 可以看到提示激活成功，再打开Office发现已经激活成功了。
 
-![activation_success](D:\PCS推送\pcstui-song\003下载与安装MicrosoftOffice\pictures\activation_success.png)
+![activation_success](./pictures/activation_success.png)
 
-![activation_success2](D:\PCS推送\pcstui-song\003下载与安装MicrosoftOffice\pictures\activation_success2.png)
+![activation_success2](./pictures/activation_success2.png)
 
 #### 关于激活的注意事项
 
