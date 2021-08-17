@@ -40,17 +40,11 @@
 
 可以看到访问成功，浏览器的地址栏中显示的地址已经带上了webvpn.fudan.edu.cn的前缀。
 
-### 使用EasyConnect客户端连接到校园网
+### 使用新版SSL VPN连接到校园网
 
-**不想每次都从WebVPN的门户首页发起请求**？你还可以使用EasyConnect客户端连接到校园网。
+**不想每次都从WebVPN的门户首页发起请求**？你还可以使用新版SSL VPN（MotionPro客户端）连接到校园网。
 
-访问[stuvpn.fudan.edu.cn]()，输入学号和密码后，系统自动跳转到EasyConnect的下载界面。选择对应的版本进行下载安装。安装过程中，**如果有杀毒软件提示，请点击“允许”。**
-
-![easyconnect_download](./pictures/easyconnect_download.png)
-
-安装后启动EasyConnect，在服务器地址处填写[stuvpn.fudan.edu.cn]()（如果没有自动填好的话）。输入学号和密码，**点击登录即可连接成功访问校园网。**
-
-![easyconnect_login](./pictures/easyconnect_login.png)
+学校信息办已经给我们提供了非常详细的教程，点击[新版SSLVPN(推荐使用)](https://xxb.fudan.edu.cn/xbwwwwwwwsyzn/list.htm)查看下载和使用教程，这里不再赘述。
 
 ## 正版软件的下载
 
