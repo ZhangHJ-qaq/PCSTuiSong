@@ -44,7 +44,11 @@
 
 **不想每次都从WebVPN的门户首页发起请求**？你还可以使用新版SSL VPN（MotionPro客户端）连接到校园网。
 
-学校信息办已经给我们提供了非常详细的教程，点击[新版SSLVPN(推荐使用)](https://xxb.fudan.edu.cn/xbwwwwwwwsyzn/list.htm)查看下载和使用教程，这里不再赘述。
+根据信息办的提示，**旧版SSLVPN**（应该是EasyConnect客户端）**已经不推荐使用**。
+
+学校信息办已经给我们提供了**新版SSLVPN（Motion Pro客户端）**非常详细的教程，点击[新版SSLVPN(推荐使用)](https://xxb.fudan.edu.cn/xbwwwwwwwsyzn/list.htm)查看下载和使用教程，这里不再赘述。
+
+![motion_pro](./pictures/motion_pro.png)
 
 ## 正版软件的下载
 
