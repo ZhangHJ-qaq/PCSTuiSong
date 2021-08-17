@@ -32,7 +32,7 @@
 
 【关键！！！】把你**想要**的组件所在的行**删除**掉（因为是**ExcludeApp**嘛，双重否定句，呵呵），并保存。比如我还想要安装**Outlook**和**Onenote**，就对Custom.xml文件进行如下修改并保存。
 
-![editting_custom](D:\PCS推送\pcstui-song\003下载与安装MicrosoftOffice\pictures\editting_custom.png)
+![editting_custom](./pictures/editting_custom.png)
 
 ### 开始安装
 
